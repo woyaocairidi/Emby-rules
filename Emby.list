@@ -55,8 +55,6 @@ DOMAIN,alist-proxy2.alien666.me
 DOMAIN,alist7.eu.org
 DOMAIN,alphatvop.alphatvapp.top
 DOMAIN,alphatvx.alphatvapp.top
-DOMAIN,anime.makima.online
-DOMAIN,api.apopcloud.me
 DOMAIN,ashtv.huajia.xyz
 DOMAIN,ask.ash.yt
 DOMAIN,auto.polodns.xyz
@@ -68,7 +66,6 @@ DOMAIN,bps8m.onyra.cc
 DOMAIN,bzy.yezi.my
 DOMAIN,c.985211.link
 DOMAIN,cdn.monisaiche.cn
-DOMAIN,cera.awatv.de
 DOMAIN,cf.cinetrail.live
 DOMAIN,cf.imetyou.top
 DOMAIN,cf.mjjemby.org
@@ -150,7 +147,7 @@ DOMAIN,link01.okemby.org
 DOMAIN,lite.saturdayent.top
 DOMAIN,lite.saturdayvideo.top
 DOMAIN,lustfulboy.com
-DOMAIN,m.mobaiemby.site
+DOMAIN,a.mobaiemby.site
 DOMAIN,m.wenjian.de
 DOMAIN,manga.pilipiliultra.com
 DOMAIN,mc.vo0.site
@@ -164,7 +161,6 @@ DOMAIN,monisaiche.cn
 DOMAIN,mperformance.mebimmer.de
 DOMAIN,mumbai.duanh.top
 DOMAIN,music.mefun.vip
-DOMAIN,myg.mobaiemby.site
 DOMAIN,nay.007.us.kg
 DOMAIN,ns1e.notfounda.shop
 DOMAIN,odysseyplus.site
@@ -177,10 +173,7 @@ DOMAIN,public.shrekmedia.org
 DOMAIN,s.outong-valve.com
 DOMAIN,s2.bgka.me
 DOMAIN,saopaulo.duanh.top
-DOMAIN,server2.cn2gias.uk
-DOMAIN,server3.cn2gias.uk
 DOMAIN,sharon.1024.one
-DOMAIN,shop.onyra.icu
 DOMAIN,speed.tang.hz.cz
 DOMAIN,sptv.ii00.cc
 DOMAIN,st.sakim.org
@@ -188,19 +181,10 @@ DOMAIN,starharn.nebula-media.org
 DOMAIN,stlax.sttss.de
 DOMAIN,stream.ntrrr.top
 DOMAIN,stream.onyra.uk
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,stream4.misakaf.org
 DOMAIN,stygnhuluztod.cfd
 DOMAIN,su.viclub.top
 DOMAIN,super.yezi.my
-DOMAIN,t.744444.xyz
 DOMAIN,tanhuatv.site
-DOMAIN,theater.makima.online
-DOMAIN,times1737807294.subxiandan.top
-DOMAIN,tvurl.000115.xyz
-DOMAIN,ultra.asubaka.top
 DOMAIN,url.409648.xyz
 DOMAIN,us.chilledmelon.com
 DOMAIN,v.chilledmelon.com
@@ -236,7 +220,6 @@ DOMAIN-SUFFIX,alist.moonfog.xyz
 DOMAIN-SUFFIX,alist.wenjian.de
 DOMAIN-SUFFIX,alvhk.809688.xyz
 DOMAIN-SUFFIX,auroramedia.vip
-DOMAIN-SUFFIX,auto.emby.funmedia.10101.io
 DOMAIN-SUFFIX,bai.yezi.my
 DOMAIN-SUFFIX,bai1.yezi.my
 DOMAIN-SUFFIX,bai2.yezi.my
@@ -400,8 +383,6 @@ DOMAIN-SUFFIX,saokirito.fun
 DOMAIN-SUFFIX,sf.811861.xyz
 DOMAIN-SUFFIX,sf.poloemby.xyz
 DOMAIN-SUFFIX,sf2.811861.xyz
-DOMAIN-SUFFIX,sf6.awatv.de
-DOMAIN-SUFFIX,sf7.awatv.de
 DOMAIN-SUFFIX,sg.809688.xyz
 DOMAIN-SUFFIX,sg.ii00.cc
 DOMAIN-SUFFIX,sharepoint.com
